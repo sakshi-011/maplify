@@ -52,7 +52,14 @@ a:visited {
 .logo {
   height: 5.2rem;
   align-self: center;
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
+}
+
+.app__name {
+  align-self: center;
+  font-family: 'Papyrus', fantasy;
+  font-size: 45px;
+  margin-bottom: 3rem;
 }
 
 .workouts {
